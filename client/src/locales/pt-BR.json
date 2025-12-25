@@ -1,109 +1,59 @@
 {
-  "nav": {
-    "home": "Início",
-    "services": "Serviços",
-    "about": "Sobre",
-    "insights": "Insights",
-    "contact": "Contato",
-    "startProject": "Iniciar Projeto"
-  },
-
   "contact": {
     "sectionTitle": "Contate-Nos",
     "title1": "Vamos Construir Algo",
     "titleHighlight": "Extraordinário",
-    "subtitle": "Pronto para transformar seu negócio? Entre em contato com nossa equipe para discutir seu projeto e descobrir como podemos ajudá-lo a alcançar seus objetivos.",
+    "subtitle": "Pronto para transformar seu negócio? Entre em contato com nossa equipe para discutir seu projeto.",
+    "getInTouch": "Entre em Contato",
 
-    "cards": {
-      "emailTitle": "Envie-nos um Email",
-      "emailDescription": "Nossa equipe geralmente responde em 24 horas",
-      "emailValue": "contact@blackpyramid.co",
+    "emailUs": "Envie-nos um Email",
+    "emailDescription": "Nossa equipe geralmente responde em 24 horas",
 
-      "headquartersTitle": "Sede",
-      "headquartersDescription": "Operações Globais",
+    "headquarters": "Sede",
+    "headquartersDescription": "Operações globais",
+    "headquartersValue": "Global",
 
-      "hoursTitle": "Horário Comercial",
-      "hoursDescription": "Suporte IA 24/7 Disponível",
-      "hoursValue": "Seg–Sex: 9h–18h EST",
+    "businessHours": "Horário Comercial",
+    "businessHoursDescription": "Suporte IA 24/7 disponível",
+    "businessHoursValue": "Seg–Sex: 9h–18h EST",
 
-      "promiseTitle": "Nossa Promessa",
-      "promiseDescription": "Respondemos a cada consulta em 24 horas. Para assuntos urgentes, utilize nosso assistente de chat com IA para suporte imediato."
-    },
+    "promiseTitle": "Nossa Promessa",
+    "promiseDescription": "Respondemos a todas as solicitações em até 24 horas úteis.",
 
-    "form": {
-      "name": "Nome Completo",
-      "email": "Endereço de Email",
-      "company": "Empresa / Website",
-      "companyPlaceholder": "Nome da sua empresa ou URL do website",
-      "service": "Serviço de Interesse",
-      "servicePlaceholder": "Selecione um serviço",
-      "budget": "Orçamento do Projeto",
-      "budgetPlaceholder": "Selecione a faixa de orçamento",
-      "message": "Detalhes do Projeto",
-      "messagePlaceholder": "Conte-nos sobre seu projeto, objetivos e cronograma...",
-      "required": "* Campos obrigatórios",
-      "submit": "Enviar Mensagem",
-      "submitting": "Enviando...",
-      "successTitle": "Mensagem Recebida!",
-      "successText": "Obrigado por entrar em contato. Nossa equipe responderá em até 24 horas.",
-      "sendAnother": "Enviar Outra Mensagem"
-    }
-  }
-}
+    "formName": "Nome Completo",
+    "formEmail": "Endereço de Email",
+    "formCompany": "Empresa / Website",
+    "formCompanyPlaceholder": "Nome da sua empresa ou site",
+    "formService": "Serviço de Interesse",
+    "formServicePlaceholder": "Selecione um serviço",
+    "formBudget": "Orçamento do Projeto",
+    "formBudgetPlaceholder": "Selecione uma faixa",
+    "formMessage": "Detalhes do Projeto",
+    "formMessagePlaceholder": "Conte-nos sobre seu projeto...",
+    "required": "* Campos obrigatórios",
 
-  },
-  "about": {
-    "sectionTitle": "Sobre Nós",
-    "title1": "Construindo o Futuro da",
-    "titleHighlight": "Excelência Digital",
-    "subtitle": "BlackPyramid é uma empresa global de tecnologia e marketing dedicada a capacitar empresas ambiciosas com soluções orientadas por IA que entregam resultados mensuráveis e transformadores.",
-    "storyTitle": "Nossa História",
-    "storyHeadline": "Da Visão ao Impacto Global",
-    "storyParagraph1": "BlackPyramid nasceu de uma observação simples: os negócios mais bem-sucedidos do mundo compartilham uma coisa em comum—eles aproveitam tecnologia e marketing estratégico para criar vantagens competitivas sobre a concorrência.",
-    "storyParagraph2": "Fundada por empreendedores que construíram e escalaram múltiplos empreendimentos bem-sucedidos, BlackPyramid foi criada para trazer capacidades de nível empresarial para negócios ambiciosos de todos os tamanhos.",
-    "storyParagraph3": "Hoje, atendemos clientes em mais de 50 países, de startups em rápido crescimento a empresas estabelecidas. Nossa equipe de mais de 500 especialistas combina profunda expertise técnica com perspicácia estratégica de negócios.",
-    "valuesTitle": "Nossos Valores",
-    "valuesHeadline": "O Que Nos Move",
-    "value1Title": "Orientado a Resultados",
-    "value1Desc": "Cada decisão que tomamos é guiada por uma pergunta: Isso entregará resultados mensuráveis para nossos clientes?",
-    "value2Title": "Excelência",
-    "value2Desc": "Não nos contentamos com o suficiente. Nosso trabalho reflete os mais altos padrões de qualidade e artesanato.",
-    "value3Title": "Parceria",
-    "value3Desc": "Não somos fornecedores—somos parceiros. Seu sucesso é nosso sucesso, e estamos investidos no seu crescimento a longo prazo.",
-    "value4Title": "Inovação",
-    "value4Desc": "Permanecemos na vanguarda da tecnologia e estratégia, trazendo as soluções de amanhã para os desafios de hoje.",
-    "journeyTitle": "Nossa Jornada",
-    "milestonesTitle": "Marcos",
-    "milestone2018": "BlackPyramid fundada com a visão de democratizar a IA",
-    "milestone2019": "Primeiro $1M em receita de clientes gerada",
-    "milestone2020": "Expansão para atender clientes em mais de 20 países",
-    "milestone2021": "Lançamento da divisão de automação com IA",
-    "milestone2022": "Alcançamos o marco de mais de 500 projetos bem-sucedidos",
-    "milestone2023": "Abertura de escritórios na Europa e Oriente Médio",
-    "milestone2024": "Introdução de agentes de vendas com IA de próxima geração",
-    "globalTitle": "Alcance Global",
-    "globalHeadline": "Atendendo Clientes em Todo o Mundo",
-    "globalSubtitle": "Com membros da equipe e clientes em todos os continentes, trazemos uma perspectiva verdadeiramente global para cada projeto.",
-    "teamMembers": "Membros da Equipe",
-    "ctaTitle1": "Junte-se à",
-    "ctaTitleHighlight": "Família BlackPyramid",
-    "ctaTitle2": "",
-    "ctaSubtitle": "Se você está procurando transformar seu negócio ou se juntar à nossa equipe, adoraríamos ouvir de você.",
-    "ctaButton1": "Iniciar um Projeto",
-    "ctaButton2": "Ver Carreiras"
-  },
-  "chat": {
-    "title": "BlackPyramid AI",
-    "subtitle": "Consultor Estratégico",
-    "placeholder": "Digite sua mensagem...",
-    "powered": "Alimentado por BlackPyramid AI • Disponível 24/7",
-    "sent": "Enviado",
-    "welcome": "Bem-vindo à BlackPyramid. Sou seu estrategista de IA, aqui para ajudá-lo a definir a solução para seu próximo grande projeto. Para começar, você poderia me dizer seu nome e o website da sua empresa?"
-  },
-  "notFound": {
-    "title": "Página Não Encontrada",
-    "message": "A página que você está procurando não existe ou foi movida. Vamos colocá-lo de volta no caminho certo.",
-    "backHome": "Voltar ao Início",
-    "goBack": "Voltar"
+    "sending": "Enviando...",
+    "sendMessage": "Enviar Mensagem",
+    "sendAnother": "Enviar Outra Mensagem",
+
+    "successTitle": "Mensagem Recebida!",
+    "successMessage": "Obrigado pelo contato. Nossa equipe responderá em até 24 horas.",
+
+    "budgetNotSure": "Ainda não tenho certeza",
+
+    "faqTitle": "Perguntas Frequentes",
+    "faqSubtitle": "Dúvidas comuns",
+
+    "faq1Question": "Quanto tempo leva para obter uma resposta?",
+    "faq1Answer": "Respondemos todas as solicitações em até 24 horas úteis.",
+
+    "faq2Question": "Vocês atendem empresas internacionais?",
+    "faq2Answer": "Sim, trabalhamos com clientes em mais de 50 países.",
+
+    "faq3Question": "Qual é o investimento mínimo?",
+    "faq3Answer": "Os projetos variam conforme escopo. Falaremos sobre isso na chamada.",
+
+    "faq4Question": "Posso falar com um especialista?",
+    "faq4Answer": "Sim, após o envio do formulário nossa equipe entrará em contato."
   }
 }
