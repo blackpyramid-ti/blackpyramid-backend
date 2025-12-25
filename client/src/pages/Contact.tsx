@@ -77,23 +77,23 @@ export default function Contact() {
   const contactInfo = [
     {
       icon: Mail,
-      title: t("contact.emailTitle"),
+      title: t("contact.emailUs"),
       description: t("contact.emailDescription"),
       value: "contact@blackpyramid.co",
       href: "mailto:contact@blackpyramid.co",
     },
     {
       icon: MapPin,
-      title: t("contact.headquartersTitle"),
+      title: t("contact.headquarters"),
       description: t("contact.headquartersDescription"),
       value: t("contact.headquartersValue"),
       href: null,
     },
     {
       icon: Clock,
-      title: t("contact.hoursTitle"),
-      description: t("contact.hoursDescription"),
-      value: t("contact.hoursValue"),
+      title: t("contact.businessHours"),
+      description: t("contact.businessHoursDescription"),
+      value: t("contact.businessHoursValue"),
       href: null,
     },
   ];
@@ -241,10 +241,10 @@ export default function Contact() {
                 className="mt-12 p-6 rounded-2xl bg-gold/5 border border-gold/20"
               >
                 <h3 className="font-serif text-lg font-semibold text-foreground mb-2">
-                  {t("contact.promiseTitle")}
+                  {t("contact.promise")}
                 </h3>
                 <p className="font-sans text-sm text-muted-foreground">
-                  {t("contact.promiseDescription")}
+                  {t("contact.promiseText")}
                 </p>
               </motion.div>
             </AnimatedSection>
