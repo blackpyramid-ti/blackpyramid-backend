@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "home": "Strona Główna",
+    "services": "Usługi",
+    "about": "O Nas",
+    "insights": "Insights",
+    "contact": "Kontakt",
+    "startProject": "Rozpocznij Projekt"
+  },
+  "hero": {
+    "badge": "Zaufanie ponad 500 elitarnych firm na całym świecie",
+    "title1": "Twoja",
+    "titleHighlight": "Nieuczciwa Przewaga",
+    "title2": "w Cyfrowym Świecie",
+    "subtitle": "Budujemy systemy napędzane AI, wysoko konwertujące lejki sprzedażowe i niestandardowe oprogramowanie, które przekształcają ambitne firmy w liderów rynku. Rozwiązania premium. Mierzalne wyniki.",
+    "cta": "Rozpocznij Swój Projekt",
+    "watchReel": "Obejrzyj Nasz Film",
+    "trustedBy": "Zaufanie liderów branży w ponad 50 krajach"
+  },
+  "services": {
+    "sectionTitle": "Nasza Ekspertyza",
+    "title1": "Usługi Premium dla",
+    "titleHighlight": "Elitarnych Firm",
+    "subtitle": "Dostarczamy kompleksowe rozwiązania, które napędzają mierzalny wzrost. Każda usługa jest dostosowana do Twoich unikalnych wyzwań i celów.",
+    "learnMore": "Dowiedz Się Więcej",
+    "aiAutomation": {
+      "title": "Automatyzacja AI",
+      "description": "Przekształć swoje operacje dzięki inteligentnej automatyzacji. Budujemy niestandardowych agentów AI i przepływy pracy N8N, które eliminują powtarzalne zadania, redukują koszty do 70% i skalują Twoją wydajność w nieskończoność."
+    },
+    "microSaas": {
+      "title": "Rozwój Micro-SaaS",
+      "description": "Uruchom produkty oprogramowania generujące przychody w tygodnie, nie miesiące. Nasz zespół buduje ukierunkowane rozwiązania B2B, które rozwiązują konkretne problemy i tworzą powtarzające się strumienie przychodów."
+    },
+    "vsl": {
+      "title": "VSL i Strategiczny Copywriting",
+      "description": "Konwertuj widzów w kupujących dzięki przekonującym listom sprzedażowym wideo i copy direct response. Stosujemy zasady Claytona Makepeace'a, aby tworzyć przekazy, które skłaniają do działania."
+    },
+    "aiAgents": {
+      "title": "Agenci Sprzedaży AI",
+      "description": "Wdróż wirtualnych przedstawicieli handlowych działających 24/7, którzy kwalifikują leady, rezerwują spotkania i pielęgnują prospektów w wielu kanałach. Nigdy więcej nie przegap okazji."
+    }
+  },
+  "stats": {
+    "revenue": "Wygenerowane Przychody dla Klientów",
+    "projects": "Zrealizowane Projekty",
+    "countries": "Obsługiwane Kraje",
+    "satisfaction": "Wskaźnik Satysfakcji Klientów"
+  },
+  "whyUs": {
+    "sectionTitle": "Dlaczego BlackPyramid",
+    "title1": "Nie Tylko Budujemy.",
+    "titleHighlight": "Transformujemy.",
+    "description": "Podczas gdy inni oferują generyczne rozwiązania, my projektujemy przewagi konkurencyjne. Nasz zespół łączy głęboką wiedzę techniczną ze strategicznym zmysłem biznesowym, aby dostarczać wyniki, które robią różnicę.",
+    "point1": "Światowej klasy ekspertyza w AI i automatyzacji",
+    "point2": "Mistrzostwo w marketingu direct response",
+    "point3": "Udowodniony track record z Fortune 500 i startupami",
+    "point4": "Dedykowany zespół przypisany do Twojego projektu",
+    "point5": "Podejście zorientowane na wyniki z jasnymi metrykami ROI",
+    "cta": "Umów Rozmowę Strategiczną",
+    "experts": "500+ Ekspertów",
+    "expertsSubtitle": "Gotowych przekształcić Twój biznes"
+  },
+  "testimonials": {
+    "sectionTitle": "Sukces Klientów",
+    "title": "Co Mówią Nasi Klienci"
+  },
+  "blog": {
+    "sectionTitle": "Insights",
+    "title": "Najnowsze z Naszego Bloga",
+    "viewAll": "Zobacz Wszystkie Artykuły",
+    "readMore": "Czytaj Więcej"
+  },
+  "cta": {
+    "title1": "Gotowy na Swoją",
+    "titleHighlight": "Nieuczciwą Przewagę?",
+    "subtitle": "Dołącz do elitarnych firm, które ufają BlackPyramid w dostarczaniu transformacyjnych wyników. Porozmawiajmy o tym, jak możemy przyspieszyć Twój wzrost.",
+    "button": "Rozpocznij Swój Projekt Dziś",
+    "note": "Bezpłatna konsultacja • Bez zobowiązań"
+  },
+  "footer": {
+    "description": "Budujemy systemy napędzane AI, wysoko konwertujące lejki sprzedażowe i niestandardowe oprogramowanie, które przekształcają ambitne firmy w liderów rynku.",
+    "services": "Usługi",
+    "company": "Firma",
+    "legal": "Prawne",
+    "privacy": "Polityka Prywatności",
+    "terms": "Warunki Usługi",
+    "cookies": "Polityka Cookies",
+    "copyright": "© 2024 BlackPyramid. Wszelkie prawa zastrzeżone.",
+    "tagline": "Twoja Nieuczciwa Przewaga w Cyfrowym Świecie"
+  },
+  "contact": {
+    "sectionTitle": "Skontaktuj Się",
+    "title1": "Zbudujmy Coś",
+    "titleHighlight": "Niezwykłego",
+    "subtitle": "Gotowy przekształcić swój biznes? Skontaktuj się z naszym zespołem, aby omówić swój projekt i odkryć, jak możemy pomóc Ci osiągnąć Twoje cele.",
+    "getInTouch": "Skontaktuj Się",
+    "emailUs": "Napisz do Nas",
+    "emailDescription": "Nasz zespół zazwyczaj odpowiada w ciągu 24 godzin",
+    "headquarters": "Siedziba Główna",
+    "headquartersValue": "Operacje Globalne",
+    "businessHours": "Godziny Pracy",
+    "businessHoursDescription": "Wsparcie AI 24/7 Dostępne",
+    "businessHoursValue": "Pon-Pt: 9-18 EST",
+    "promise": "Nasza Obietnica",
+    "promiseText": "Odpowiadamy na każde zapytanie w ciągu 24 godzin. W pilnych sprawach skorzystaj z naszego asystenta czatu AI, aby uzyskać natychmiastowe wsparcie.",
+    "form": {
+      "fullName": "Imię i Nazwisko",
+      "email": "Adres Email",
+      "company": "Firma / Strona",
+      "companyPlaceholder": "Nazwa Twojej firmy lub URL strony",
+      "service": "Interesująca Usługa",
+      "servicePlaceholder": "Wybierz usługę",
+      "budget": "Budżet Projektu",
+      "budgetPlaceholder": "Wybierz zakres budżetu",
+      "message": "Szczegóły Projektu",
+      "messagePlaceholder": "Opowiedz nam o swoim projekcie, celach i harmonogramie...",
+      "submit": "Wyślij Wiadomość",
+      "submitting": "Wysyłanie...",
+      "success": "Wiadomość Otrzymana!",
+      "successText": "Dziękujemy za kontakt. Nasz zespół przeanalizuje Twoje zapytanie i odpowie w ciągu 24 godzin.",
+      "sendAnother": "Wyślij Kolejną Wiadomość"
+    }
+  },
+  "about": {
+    "sectionTitle": "O Nas",
+    "title1": "Historia",
+    "titleHighlight": "BlackPyramid",
+    "subtitle": "Nie jesteśmy kolejną agencją. Jesteśmy kolektywem elitarnych specjalistów zjednoczonych jedną misją: dać ambitnym firmom nieuczciwą przewagę w cyfrowym krajobrazie.",
+    "mission": {
+      "title": "Nasza Misja",
+      "text": "Demokratyzacja dostępu do światowej klasy rozwiązań cyfrowych, umożliwiając firmom każdej wielkości konkurowanie i wygrywanie na globalnym rynku."
+    },
+    "vision": {
+      "title": "Nasza Wizja",
+      "text": "Świat, w którym każdy ambitny przedsiębiorca ma narzędzia i strategie do budowania czegoś niezwykłego."
+    },
+    "values": {
+      "title": "Nasze Wartości",
+      "excellence": "Doskonałość",
+      "excellenceText": "Nie zadowalamy się wystarczająco dobrym. Każdy projekt otrzymuje nasze pełne zaangażowanie w wyjątkową jakość.",
+      "innovation": "Innowacja",
+      "innovationText": "Wyprzedzamy trendy, stale eksplorując nowe technologie i metodologie.",
+      "integrity": "Uczciwość",
+      "integrityText": "Budujemy zaufanie poprzez przejrzystość, szczerość i dotrzymywanie obietnic.",
+      "results": "Wyniki",
+      "resultsText": "Mierzymy nasz sukces namacalnymi wynikami, które tworzymy dla naszych klientów."
+    },
+    "team": {
+      "title": "Zespół Kierowniczy",
+      "subtitle": "Poznaj wizjonerów napędzających misję BlackPyramid."
+    }
+  },
+  "chat": {
+    "title": "BlackPyramid AI",
+    "subtitle": "Konsultant Strategiczny",
+    "placeholder": "Wpisz swoją wiadomość...",
+    "powered": "Napędzane przez BlackPyramid AI • Dostępne 24/7",
+    "sent": "Wysłano",
+    "welcome": "Witamy w BlackPyramid. Jestem Twoim strategiem AI, tutaj, aby pomóc Ci zdefiniować rozwiązanie dla Twojego następnego dużego projektu. Na początek, czy możesz mi powiedzieć swoje imię i stronę internetową Twojej firmy?"
+  },
+  "notFound": {
+    "title": "404",
+    "heading": "Strona Nie Znaleziona",
+    "text": "Strona, której szukasz, nie istnieje lub została przeniesiona. Pomóżmy Ci wrócić na właściwą ścieżkę.",
+    "backHome": "Powrót do Strony Głównej",
+    "goBack": "Wróć"
+  }
+}

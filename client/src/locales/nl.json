@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "about": "Over Ons",
+    "insights": "Insights",
+    "contact": "Contact",
+    "startProject": "Start een Project"
+  },
+  "hero": {
+    "badge": "Vertrouwd door 500+ elite bedrijven wereldwijd",
+    "title1": "Uw",
+    "titleHighlight": "Oneerlijke Voorsprong",
+    "title2": "in een Digitale Wereld",
+    "subtitle": "Wij bouwen AI-gestuurde systemen, hoogconverterende verkooptrechters en op maat gemaakte software die ambitieuze bedrijven transformeren tot marktleiders. Premium oplossingen. Meetbare resultaten.",
+    "cta": "Start Uw Project",
+    "watchReel": "Bekijk Onze Video",
+    "trustedBy": "Vertrouwd door brancheleiders in meer dan 50 landen"
+  },
+  "services": {
+    "sectionTitle": "Onze Expertise",
+    "title1": "Premium Diensten voor",
+    "titleHighlight": "Elite Bedrijven",
+    "subtitle": "Wij leveren uitgebreide oplossingen die meetbare groei stimuleren. Elke dienst is afgestemd op uw unieke uitdagingen en doelen.",
+    "learnMore": "Meer Informatie",
+    "aiAutomation": {
+      "title": "AI Automatisering",
+      "description": "Transformeer uw operaties met intelligente automatisering. Wij bouwen op maat gemaakte AI-agents en N8N-workflows die repetitieve taken elimineren, kosten tot 70% verlagen en uw capaciteit oneindig schalen."
+    },
+    "microSaas": {
+      "title": "Micro-SaaS Ontwikkeling",
+      "description": "Lanceer omzetgenererende softwareproducten in weken, niet maanden. Ons team bouwt gerichte B2B-oplossingen die specifieke problemen oplossen en terugkerende inkomstenstromen creëren."
+    },
+    "vsl": {
+      "title": "VSL & Strategische Copywriting",
+      "description": "Converteer kijkers naar kopers met overtuigende video sales letters en direct response copy. Wij passen Clayton Makepeace-principes toe om boodschappen te creëren die tot actie aanzetten."
+    },
+    "aiAgents": {
+      "title": "AI Verkoopagenten",
+      "description": "Zet 24/7 virtuele verkoopvertegenwoordigers in die leads kwalificeren, vergaderingen boeken en prospects via meerdere kanalen koesteren. Mis nooit meer een kans."
+    }
+  },
+  "stats": {
+    "revenue": "Gegenereerde Omzet voor Klanten",
+    "projects": "Geleverde Projecten",
+    "countries": "Bediende Landen",
+    "satisfaction": "Klanttevredenheidspercentage"
+  },
+  "whyUs": {
+    "sectionTitle": "Waarom BlackPyramid",
+    "title1": "Wij Bouwen Niet Alleen.",
+    "titleHighlight": "Wij Transformeren.",
+    "description": "Terwijl anderen generieke oplossingen bieden, ontwerpen wij concurrentievoordelen. Ons team combineert diepgaande technische expertise met strategisch zakelijk inzicht om resultaten te leveren die het verschil maken.",
+    "point1": "Wereldklasse expertise in AI en automatisering",
+    "point2": "Meesterschap in direct response marketing",
+    "point3": "Bewezen track record met Fortune 500 en startups",
+    "point4": "Toegewijd team toegewezen aan uw project",
+    "point5": "Resultaatgerichte aanpak met duidelijke ROI-metrics",
+    "cta": "Plan een Strategiegesprek",
+    "experts": "500+ Experts",
+    "expertsSubtitle": "Klaar om uw bedrijf te transformeren"
+  },
+  "testimonials": {
+    "sectionTitle": "Klantensucces",
+    "title": "Wat Onze Klanten Zeggen"
+  },
+  "blog": {
+    "sectionTitle": "Insights",
+    "title": "Laatste van Onze Blog",
+    "viewAll": "Bekijk Alle Artikelen",
+    "readMore": "Lees Meer"
+  },
+  "cta": {
+    "title1": "Klaar voor Uw",
+    "titleHighlight": "Oneerlijke Voorsprong?",
+    "subtitle": "Sluit u aan bij de elite bedrijven die BlackPyramid vertrouwen voor transformatieve resultaten. Laten we bespreken hoe we uw groei kunnen versnellen.",
+    "button": "Start Uw Project Vandaag",
+    "note": "Gratis consultatie • Geen verplichting"
+  },
+  "footer": {
+    "description": "Wij bouwen AI-gestuurde systemen, hoogconverterende verkooptrechters en op maat gemaakte software die ambitieuze bedrijven transformeren tot marktleiders.",
+    "services": "Diensten",
+    "company": "Bedrijf",
+    "legal": "Juridisch",
+    "privacy": "Privacybeleid",
+    "terms": "Servicevoorwaarden",
+    "cookies": "Cookiebeleid",
+    "copyright": "© 2024 BlackPyramid. Alle rechten voorbehouden.",
+    "tagline": "Uw Oneerlijke Voorsprong in een Digitale Wereld"
+  },
+  "contact": {
+    "sectionTitle": "Neem Contact Op",
+    "title1": "Laten We Iets",
+    "titleHighlight": "Buitengewoons Bouwen",
+    "subtitle": "Klaar om uw bedrijf te transformeren? Neem contact op met ons team om uw project te bespreken en te ontdekken hoe wij u kunnen helpen uw doelen te bereiken.",
+    "getInTouch": "Neem Contact Op",
+    "emailUs": "E-mail Ons",
+    "emailDescription": "Ons team reageert doorgaans binnen 24 uur",
+    "headquarters": "Hoofdkantoor",
+    "headquartersValue": "Wereldwijde Operaties",
+    "businessHours": "Openingstijden",
+    "businessHoursDescription": "24/7 AI Ondersteuning Beschikbaar",
+    "businessHoursValue": "Ma-Vr: 9-18 uur EST",
+    "promise": "Onze Belofte",
+    "promiseText": "Wij reageren op elke vraag binnen 24 uur. Voor dringende zaken, gebruik onze AI-chatassistent voor directe ondersteuning.",
+    "form": {
+      "fullName": "Volledige Naam",
+      "email": "E-mailadres",
+      "company": "Bedrijf / Website",
+      "companyPlaceholder": "Uw bedrijfsnaam of website-URL",
+      "service": "Gewenste Dienst",
+      "servicePlaceholder": "Selecteer een dienst",
+      "budget": "Projectbudget",
+      "budgetPlaceholder": "Selecteer budgetbereik",
+      "message": "Projectdetails",
+      "messagePlaceholder": "Vertel ons over uw project, doelen en tijdlijn...",
+      "submit": "Verstuur Bericht",
+      "submitting": "Versturen...",
+      "success": "Bericht Ontvangen!",
+      "successText": "Bedankt voor uw bericht. Ons team zal uw vraag bekijken en binnen 24 uur reageren.",
+      "sendAnother": "Verstuur Nog een Bericht"
+    }
+  },
+  "about": {
+    "sectionTitle": "Over Ons",
+    "title1": "Het Verhaal Achter",
+    "titleHighlight": "BlackPyramid",
+    "subtitle": "Wij zijn niet zomaar een bureau. Wij zijn een collectief van elite-specialisten verenigd door één missie: ambitieuze bedrijven een oneerlijke voorsprong geven in het digitale landschap.",
+    "mission": {
+      "title": "Onze Missie",
+      "text": "Toegang tot wereldklasse digitale oplossingen democratiseren, waardoor bedrijven van elke omvang kunnen concurreren en winnen op de wereldmarkt."
+    },
+    "vision": {
+      "title": "Onze Visie",
+      "text": "Een wereld waarin elke ambitieuze ondernemer de tools en strategieën heeft om iets buitengewoons te bouwen."
+    },
+    "values": {
+      "title": "Onze Waarden",
+      "excellence": "Excellentie",
+      "excellenceText": "Wij nemen geen genoegen met goed genoeg. Elk project krijgt onze volledige toewijding aan uitzonderlijke kwaliteit.",
+      "innovation": "Innovatie",
+      "innovationText": "Wij blijven voorop lopen en verkennen voortdurend nieuwe technologieën en methodologieën.",
+      "integrity": "Integriteit",
+      "integrityText": "Wij bouwen vertrouwen door transparantie, eerlijkheid en het nakomen van onze beloftes.",
+      "results": "Resultaten",
+      "resultsText": "Wij meten ons succes aan de tastbare resultaten die wij voor onze klanten creëren."
+    },
+    "team": {
+      "title": "Leiderschapsteam",
+      "subtitle": "Ontmoet de visionairs die de missie van BlackPyramid voortstuwen."
+    }
+  },
+  "chat": {
+    "title": "BlackPyramid AI",
+    "subtitle": "Strategisch Consultant",
+    "placeholder": "Typ uw bericht...",
+    "powered": "Aangedreven door BlackPyramid AI • 24/7 Beschikbaar",
+    "sent": "Verzonden",
+    "welcome": "Welkom bij BlackPyramid. Ik ben uw AI-strateeg, hier om u te helpen de oplossing voor uw volgende grote project te definiëren. Om te beginnen, kunt u mij uw naam en de website van uw bedrijf vertellen?"
+  },
+  "notFound": {
+    "title": "404",
+    "heading": "Pagina Niet Gevonden",
+    "text": "De pagina die u zoekt bestaat niet of is verplaatst. Laten we u weer op het juiste spoor zetten.",
+    "backHome": "Terug naar Home",
+    "goBack": "Ga Terug"
+  }
+}

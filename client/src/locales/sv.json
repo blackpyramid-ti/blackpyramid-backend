@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "home": "Hem",
+    "services": "Tjänster",
+    "about": "Om Oss",
+    "insights": "Insights",
+    "contact": "Kontakt",
+    "startProject": "Starta ett Projekt"
+  },
+  "hero": {
+    "badge": "Betrodd av 500+ elitföretag världen över",
+    "title1": "Din",
+    "titleHighlight": "Orättvisa Fördel",
+    "title2": "i en Digital Värld",
+    "subtitle": "Vi bygger AI-drivna system, högkonverterande säljtratten och skräddarsydd mjukvara som förvandlar ambitiösa företag till marknadsledare. Premiumlösningar. Mätbara resultat.",
+    "cta": "Starta Ditt Projekt",
+    "watchReel": "Se Vår Video",
+    "trustedBy": "Betrodd av branschledare i över 50 länder"
+  },
+  "services": {
+    "sectionTitle": "Vår Expertis",
+    "title1": "Premiumtjänster för",
+    "titleHighlight": "Elitföretag",
+    "subtitle": "Vi levererar omfattande lösningar som driver mätbar tillväxt. Varje tjänst är anpassad efter dina unika utmaningar och mål.",
+    "learnMore": "Läs Mer",
+    "aiAutomation": {
+      "title": "AI-Automatisering",
+      "description": "Transformera din verksamhet med intelligent automatisering. Vi bygger skräddarsydda AI-agenter och N8N-arbetsflöden som eliminerar repetitiva uppgifter, minskar kostnader med upp till 70% och skalar din kapacitet oändligt."
+    },
+    "microSaas": {
+      "title": "Micro-SaaS Utveckling",
+      "description": "Lansera intäktsgenererande mjukvaruprodukter på veckor, inte månader. Vårt team bygger fokuserade B2B-lösningar som löser specifika problem och skapar återkommande intäktsströmmar."
+    },
+    "vsl": {
+      "title": "VSL & Strategisk Copywriting",
+      "description": "Konvertera tittare till köpare med övertygande video sales letters och direct response copy. Vi tillämpar Clayton Makepeace-principer för att skapa budskap som driver handling."
+    },
+    "aiAgents": {
+      "title": "AI-Säljagenter",
+      "description": "Distribuera virtuella säljrepresentanter dygnet runt som kvalificerar leads, bokar möten och vårdar prospekt över flera kanaler. Missa aldrig en möjlighet igen."
+    }
+  },
+  "stats": {
+    "revenue": "Genererade Intäkter för Kunder",
+    "projects": "Levererade Projekt",
+    "countries": "Betjänade Länder",
+    "satisfaction": "Kundnöjdhet"
+  },
+  "whyUs": {
+    "sectionTitle": "Varför BlackPyramid",
+    "title1": "Vi Bygger Inte Bara.",
+    "titleHighlight": "Vi Transformerar.",
+    "description": "Medan andra erbjuder generiska lösningar, designar vi konkurrensfördelar. Vårt team kombinerar djup teknisk expertis med strategiskt affärssinne för att leverera resultat som gör skillnad.",
+    "point1": "Världsledande expertis inom AI och automatisering",
+    "point2": "Mästerskap i direct response-marknadsföring",
+    "point3": "Bevisad meritlista med Fortune 500 och startups",
+    "point4": "Dedikerat team tilldelat ditt projekt",
+    "point5": "Resultatdriven approach med tydliga ROI-mått",
+    "cta": "Boka ett Strategisamtal",
+    "experts": "500+ Experter",
+    "expertsSubtitle": "Redo att transformera ditt företag"
+  },
+  "testimonials": {
+    "sectionTitle": "Kundframgångar",
+    "title": "Vad Våra Kunder Säger"
+  },
+  "blog": {
+    "sectionTitle": "Insights",
+    "title": "Senaste från Vår Blogg",
+    "viewAll": "Se Alla Artiklar",
+    "readMore": "Läs Mer"
+  },
+  "cta": {
+    "title1": "Redo för Din",
+    "titleHighlight": "Orättvisa Fördel?",
+    "subtitle": "Gå med i elitföretagen som litar på BlackPyramid för transformativa resultat. Låt oss diskutera hur vi kan accelerera din tillväxt.",
+    "button": "Starta Ditt Projekt Idag",
+    "note": "Gratis konsultation • Ingen förpliktelse"
+  },
+  "footer": {
+    "description": "Vi bygger AI-drivna system, högkonverterande säljtratten och skräddarsydd mjukvara som förvandlar ambitiösa företag till marknadsledare.",
+    "services": "Tjänster",
+    "company": "Företag",
+    "legal": "Juridiskt",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "cookies": "Cookiepolicy",
+    "copyright": "© 2024 BlackPyramid. Alla rättigheter förbehållna.",
+    "tagline": "Din Orättvisa Fördel i en Digital Värld"
+  },
+  "contact": {
+    "sectionTitle": "Kontakta Oss",
+    "title1": "Låt Oss Bygga Något",
+    "titleHighlight": "Extraordinärt",
+    "subtitle": "Redo att transformera ditt företag? Kontakta vårt team för att diskutera ditt projekt och upptäck hur vi kan hjälpa dig att nå dina mål.",
+    "getInTouch": "Kontakta Oss",
+    "emailUs": "Maila Oss",
+    "emailDescription": "Vårt team svarar vanligtvis inom 24 timmar",
+    "headquarters": "Huvudkontor",
+    "headquartersValue": "Globala Operationer",
+    "businessHours": "Öppettider",
+    "businessHoursDescription": "24/7 AI-Support Tillgänglig",
+    "businessHoursValue": "Mån-Fre: 9-18 EST",
+    "promise": "Vårt Löfte",
+    "promiseText": "Vi svarar på varje förfrågan inom 24 timmar. För brådskande ärenden, använd vår AI-chattassistent för omedelbar support.",
+    "form": {
+      "fullName": "Fullständigt Namn",
+      "email": "E-postadress",
+      "company": "Företag / Webbplats",
+      "companyPlaceholder": "Ditt företagsnamn eller webbplats-URL",
+      "service": "Önskad Tjänst",
+      "servicePlaceholder": "Välj en tjänst",
+      "budget": "Projektbudget",
+      "budgetPlaceholder": "Välj budgetintervall",
+      "message": "Projektdetaljer",
+      "messagePlaceholder": "Berätta om ditt projekt, mål och tidslinje...",
+      "submit": "Skicka Meddelande",
+      "submitting": "Skickar...",
+      "success": "Meddelande Mottaget!",
+      "successText": "Tack för att du kontaktade oss. Vårt team kommer att granska din förfrågan och återkomma inom 24 timmar.",
+      "sendAnother": "Skicka Ytterligare Meddelande"
+    }
+  },
+  "about": {
+    "sectionTitle": "Om Oss",
+    "title1": "Historien Bakom",
+    "titleHighlight": "BlackPyramid",
+    "subtitle": "Vi är inte bara ytterligare en byrå. Vi är ett kollektiv av elitspecialister förenade av ett enda uppdrag: att ge ambitiösa företag en orättvis fördel i det digitala landskapet.",
+    "mission": {
+      "title": "Vårt Uppdrag",
+      "text": "Att demokratisera tillgången till digitala lösningar i världsklass, så att företag av alla storlekar kan konkurrera och vinna på den globala marknaden."
+    },
+    "vision": {
+      "title": "Vår Vision",
+      "text": "En värld där varje ambitiös entreprenör har verktygen och strategierna för att bygga något extraordinärt."
+    },
+    "values": {
+      "title": "Våra Värderingar",
+      "excellence": "Excellens",
+      "excellenceText": "Vi nöjer oss inte med tillräckligt bra. Varje projekt får vårt fulla engagemang för exceptionell kvalitet.",
+      "innovation": "Innovation",
+      "innovationText": "Vi ligger i framkant och utforskar ständigt nya teknologier och metoder.",
+      "integrity": "Integritet",
+      "integrityText": "Vi bygger förtroende genom transparens, ärlighet och att hålla våra löften.",
+      "results": "Resultat",
+      "resultsText": "Vi mäter vår framgång genom de konkreta resultat vi skapar för våra kunder."
+    },
+    "team": {
+      "title": "Ledningsgrupp",
+      "subtitle": "Möt visionärerna som driver BlackPyramids uppdrag framåt."
+    }
+  },
+  "chat": {
+    "title": "BlackPyramid AI",
+    "subtitle": "Strategisk Konsult",
+    "placeholder": "Skriv ditt meddelande...",
+    "powered": "Drivs av BlackPyramid AI • Tillgänglig 24/7",
+    "sent": "Skickat",
+    "welcome": "Välkommen till BlackPyramid. Jag är din AI-strateg, här för att hjälpa dig definiera lösningen för ditt nästa stora projekt. För att börja, kan du berätta ditt namn och din företagswebbplats?"
+  },
+  "notFound": {
+    "title": "404",
+    "heading": "Sidan Hittades Inte",
+    "text": "Sidan du letar efter finns inte eller har flyttats. Låt oss få dig tillbaka på rätt spår.",
+    "backHome": "Tillbaka till Hem",
+    "goBack": "Gå Tillbaka"
+  }
+}

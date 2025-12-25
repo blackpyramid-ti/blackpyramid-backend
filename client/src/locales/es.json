@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "insights": "Insights",
+    "contact": "Contacto",
+    "startProject": "Iniciar Proyecto"
+  },
+  "hero": {
+    "badge": "Confianza de más de 500 empresas de élite en todo el mundo",
+    "title1": "Tu",
+    "titleHighlight": "Ventaja Injusta",
+    "title2": "en un Mundo Digital",
+    "subtitle": "Construimos sistemas impulsados por IA, embudos de ventas de alta conversión y software personalizado que transforman negocios ambiciosos en líderes del mercado. Soluciones premium. Resultados medibles.",
+    "cta": "Inicia Tu Proyecto",
+    "watchReel": "Ver Nuestro Reel",
+    "trustedBy": "Confianza de líderes de la industria en más de 50 países"
+  },
+  "services": {
+    "sectionTitle": "Nuestra Experiencia",
+    "title1": "Servicios Premium para",
+    "titleHighlight": "Empresas de Élite",
+    "subtitle": "Entregamos soluciones integrales que impulsan un crecimiento medible. Cada servicio está adaptado a tus desafíos y objetivos únicos.",
+    "learnMore": "Saber Más",
+    "aiAutomation": {
+      "title": "Automatización con IA",
+      "description": "Transforma tus operaciones con automatización inteligente. Construimos agentes de IA personalizados y flujos de trabajo N8N que eliminan tareas repetitivas, reducen costos hasta un 70% y escalan tu capacidad infinitamente."
+    },
+    "microSaas": {
+      "title": "Desarrollo Micro-SaaS",
+      "description": "Lanza productos de software generadores de ingresos en semanas, no meses. Nuestro equipo construye soluciones B2B enfocadas que resuelven problemas específicos y crean flujos de ingresos recurrentes."
+    },
+    "vsl": {
+      "title": "VSL y Copywriting Estratégico",
+      "description": "Convierte espectadores en compradores con cartas de ventas en video persuasivas y copy de respuesta directa. Aplicamos los principios de Clayton Makepeace para crear mensajes que impulsan la acción."
+    },
+    "aiAgents": {
+      "title": "Agentes de Ventas IA",
+      "description": "Despliega representantes de ventas virtuales 24/7 que califican leads, agendan reuniones y nutren prospectos en múltiples canales. Nunca pierdas otra oportunidad."
+    }
+  },
+  "stats": {
+    "revenue": "Ingresos Generados para Clientes",
+    "projects": "Proyectos Entregados",
+    "countries": "Países Atendidos",
+    "satisfaction": "Tasa de Satisfacción del Cliente"
+  },
+  "whyUs": {
+    "sectionTitle": "Por Qué BlackPyramid",
+    "title1": "No Solo Construimos.",
+    "titleHighlight": "Transformamos.",
+    "description": "Mientras otros ofrecen soluciones genéricas, nosotros diseñamos ventajas competitivas. Nuestro equipo combina profunda experiencia técnica con agudeza empresarial estratégica para entregar resultados que marcan la diferencia.",
+    "point1": "Experiencia de clase mundial en IA y automatización",
+    "point2": "Dominio del marketing de respuesta directa",
+    "point3": "Historial comprobado con Fortune 500 y startups",
+    "point4": "Equipo dedicado asignado a tu proyecto",
+    "point5": "Enfoque orientado a resultados con métricas claras de ROI",
+    "cta": "Agenda una Llamada Estratégica",
+    "experts": "500+ Expertos",
+    "expertsSubtitle": "Listos para transformar tu negocio"
+  },
+  "testimonials": {
+    "sectionTitle": "Éxito de Clientes",
+    "title": "Lo Que Dicen Nuestros Clientes"
+  },
+  "blog": {
+    "sectionTitle": "Insights",
+    "title": "Lo Último de Nuestro Blog",
+    "viewAll": "Ver Todos los Artículos",
+    "readMore": "Leer Más"
+  },
+  "cta": {
+    "title1": "¿Listo para Obtener Tu",
+    "titleHighlight": "Ventaja Injusta?",
+    "subtitle": "Únete a las empresas de élite que confían en BlackPyramid para entregar resultados transformadores. Hablemos de cómo podemos acelerar tu crecimiento.",
+    "button": "Inicia Tu Proyecto Hoy",
+    "note": "Consulta gratuita • Sin compromiso"
+  },
+  "footer": {
+    "description": "Construimos sistemas impulsados por IA, embudos de ventas de alta conversión y software personalizado que transforman negocios ambiciosos en líderes del mercado.",
+    "services": "Servicios",
+    "company": "Empresa",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies",
+    "copyright": "© 2024 BlackPyramid. Todos los derechos reservados.",
+    "tagline": "Tu Ventaja Injusta en un Mundo Digital"
+  },
+  "contact": {
+    "sectionTitle": "Contáctanos",
+    "title1": "Construyamos Algo",
+    "titleHighlight": "Extraordinario",
+    "subtitle": "¿Listo para transformar tu negocio? Ponte en contacto con nuestro equipo para discutir tu proyecto y descubrir cómo podemos ayudarte a alcanzar tus objetivos.",
+    "getInTouch": "Ponte en Contacto",
+    "emailUs": "Escríbenos",
+    "emailDescription": "Nuestro equipo generalmente responde en 24 horas",
+    "headquarters": "Sede Central",
+    "headquartersValue": "Operaciones Globales",
+    "businessHours": "Horario de Atención",
+    "businessHoursDescription": "Soporte IA 24/7 Disponible",
+    "businessHoursValue": "Lun-Vie: 9AM-6PM EST",
+    "promise": "Nuestra Promesa",
+    "promiseText": "Respondemos a cada consulta en 24 horas. Para asuntos urgentes, usa nuestro asistente de chat IA para soporte inmediato.",
+    "form": {
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "company": "Empresa / Sitio Web",
+      "companyPlaceholder": "Nombre de tu empresa o URL del sitio web",
+      "service": "Servicio de Interés",
+      "servicePlaceholder": "Selecciona un servicio",
+      "budget": "Presupuesto del Proyecto",
+      "budgetPlaceholder": "Selecciona rango de presupuesto",
+      "message": "Detalles del Proyecto",
+      "messagePlaceholder": "Cuéntanos sobre tu proyecto, objetivos y cronograma...",
+      "submit": "Enviar Mensaje",
+      "submitting": "Enviando...",
+      "success": "¡Mensaje Recibido!",
+      "successText": "Gracias por contactarnos. Nuestro equipo revisará tu consulta y te responderá en 24 horas.",
+      "sendAnother": "Enviar Otro Mensaje"
+    }
+  },
+  "about": {
+    "sectionTitle": "Sobre Nosotros",
+    "title1": "La Historia Detrás de",
+    "titleHighlight": "BlackPyramid",
+    "subtitle": "No somos solo otra agencia. Somos un colectivo de especialistas de élite unidos por una misión singular: dar a los negocios ambiciosos una ventaja injusta en el panorama digital.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Democratizar el acceso a soluciones digitales de clase mundial, permitiendo que negocios de todos los tamaños compitan y ganen en el mercado global."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "text": "Un mundo donde cada emprendedor ambicioso tenga las herramientas y estrategias para construir algo extraordinario."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "excellence": "Excelencia",
+      "excellenceText": "No nos conformamos con lo suficientemente bueno. Cada proyecto recibe nuestro compromiso total con la calidad excepcional.",
+      "innovation": "Innovación",
+      "innovationText": "Nos mantenemos a la vanguardia, explorando constantemente nuevas tecnologías y metodologías.",
+      "integrity": "Integridad",
+      "integrityText": "Construimos confianza a través de la transparencia, honestidad y cumpliendo nuestras promesas.",
+      "results": "Resultados",
+      "resultsText": "Medimos nuestro éxito por los resultados tangibles que creamos para nuestros clientes."
+    },
+    "team": {
+      "title": "Equipo de Liderazgo",
+      "subtitle": "Conoce a los visionarios que impulsan la misión de BlackPyramid."
+    }
+  },
+  "chat": {
+    "title": "BlackPyramid AI",
+    "subtitle": "Consultor Estratégico",
+    "placeholder": "Escribe tu mensaje...",
+    "powered": "Impulsado por BlackPyramid AI • Disponible 24/7",
+    "sent": "Enviado",
+    "welcome": "Bienvenido a BlackPyramid. Soy tu estratega de IA, aquí para ayudarte a definir la solución para tu próximo gran proyecto. Para empezar, ¿podrías decirme tu nombre y el sitio web de tu empresa?"
+  },
+  "notFound": {
+    "title": "404",
+    "heading": "Página No Encontrada",
+    "text": "La página que buscas no existe o ha sido movida. Vamos a ponerte de vuelta en el camino.",
+    "backHome": "Volver al Inicio",
+    "goBack": "Regresar"
+  }
+}

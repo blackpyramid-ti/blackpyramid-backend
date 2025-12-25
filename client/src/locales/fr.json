@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À Propos",
+    "insights": "Insights",
+    "contact": "Contact",
+    "startProject": "Démarrer un Projet"
+  },
+  "hero": {
+    "badge": "La confiance de plus de 500 entreprises d'élite dans le monde",
+    "title1": "Votre",
+    "titleHighlight": "Avantage Injuste",
+    "title2": "dans un Monde Digital",
+    "subtitle": "Nous construisons des systèmes alimentés par l'IA, des tunnels de vente à haute conversion et des logiciels sur mesure qui transforment les entreprises ambitieuses en leaders du marché. Solutions premium. Résultats mesurables.",
+    "cta": "Démarrez Votre Projet",
+    "watchReel": "Voir Notre Vidéo",
+    "trustedBy": "La confiance des leaders de l'industrie dans plus de 50 pays"
+  },
+  "services": {
+    "sectionTitle": "Notre Expertise",
+    "title1": "Services Premium pour",
+    "titleHighlight": "Entreprises d'Élite",
+    "subtitle": "Nous livrons des solutions complètes qui génèrent une croissance mesurable. Chaque service est adapté à vos défis et objectifs uniques.",
+    "learnMore": "En Savoir Plus",
+    "aiAutomation": {
+      "title": "Automatisation IA",
+      "description": "Transformez vos opérations avec l'automatisation intelligente. Nous créons des agents IA personnalisés et des workflows N8N qui éliminent les tâches répétitives, réduisent les coûts jusqu'à 70% et augmentent votre capacité à l'infini."
+    },
+    "microSaas": {
+      "title": "Développement Micro-SaaS",
+      "description": "Lancez des produits logiciels générateurs de revenus en semaines, pas en mois. Notre équipe construit des solutions B2B ciblées qui résolvent des problèmes spécifiques et créent des flux de revenus récurrents."
+    },
+    "vsl": {
+      "title": "VSL & Copywriting Stratégique",
+      "description": "Convertissez les spectateurs en acheteurs avec des lettres de vente vidéo persuasives et du copywriting à réponse directe. Nous appliquons les principes de Clayton Makepeace pour créer des messages qui incitent à l'action."
+    },
+    "aiAgents": {
+      "title": "Agents de Vente IA",
+      "description": "Déployez des représentants commerciaux virtuels 24/7 qui qualifient les leads, réservent des réunions et nourrissent les prospects sur plusieurs canaux. Ne manquez plus jamais une opportunité."
+    }
+  },
+  "stats": {
+    "revenue": "Revenus Générés pour les Clients",
+    "projects": "Projets Livrés",
+    "countries": "Pays Servis",
+    "satisfaction": "Taux de Satisfaction Client"
+  },
+  "whyUs": {
+    "sectionTitle": "Pourquoi BlackPyramid",
+    "title1": "Nous Ne Construisons Pas Seulement.",
+    "titleHighlight": "Nous Transformons.",
+    "description": "Alors que d'autres offrent des solutions génériques, nous concevons des avantages compétitifs. Notre équipe combine une expertise technique approfondie avec une acuité commerciale stratégique pour livrer des résultats qui font la différence.",
+    "point1": "Expertise de classe mondiale en IA et automatisation",
+    "point2": "Maîtrise du marketing à réponse directe",
+    "point3": "Bilan prouvé avec Fortune 500 et startups",
+    "point4": "Équipe dédiée assignée à votre projet",
+    "point5": "Approche axée sur les résultats avec des métriques ROI claires",
+    "cta": "Planifier un Appel Stratégique",
+    "experts": "500+ Experts",
+    "expertsSubtitle": "Prêts à transformer votre entreprise"
+  },
+  "testimonials": {
+    "sectionTitle": "Succès Clients",
+    "title": "Ce Que Disent Nos Clients"
+  },
+  "blog": {
+    "sectionTitle": "Insights",
+    "title": "Les Derniers Articles de Notre Blog",
+    "viewAll": "Voir Tous les Articles",
+    "readMore": "Lire Plus"
+  },
+  "cta": {
+    "title1": "Prêt à Obtenir Votre",
+    "titleHighlight": "Avantage Injuste?",
+    "subtitle": "Rejoignez les entreprises d'élite qui font confiance à BlackPyramid pour livrer des résultats transformateurs. Discutons de comment nous pouvons accélérer votre croissance.",
+    "button": "Démarrez Votre Projet Aujourd'hui",
+    "note": "Consultation gratuite • Sans engagement"
+  },
+  "footer": {
+    "description": "Nous construisons des systèmes alimentés par l'IA, des tunnels de vente à haute conversion et des logiciels sur mesure qui transforment les entreprises ambitieuses en leaders du marché.",
+    "services": "Services",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Politique des Cookies",
+    "copyright": "© 2024 BlackPyramid. Tous droits réservés.",
+    "tagline": "Votre Avantage Injuste dans un Monde Digital"
+  },
+  "contact": {
+    "sectionTitle": "Contactez-Nous",
+    "title1": "Construisons Quelque Chose",
+    "titleHighlight": "d'Extraordinaire",
+    "subtitle": "Prêt à transformer votre entreprise? Contactez notre équipe pour discuter de votre projet et découvrir comment nous pouvons vous aider à atteindre vos objectifs.",
+    "getInTouch": "Contactez-Nous",
+    "emailUs": "Écrivez-Nous",
+    "emailDescription": "Notre équipe répond généralement sous 24 heures",
+    "headquarters": "Siège Social",
+    "headquartersValue": "Opérations Mondiales",
+    "businessHours": "Heures d'Ouverture",
+    "businessHoursDescription": "Support IA 24/7 Disponible",
+    "businessHoursValue": "Lun-Ven: 9h-18h EST",
+    "promise": "Notre Promesse",
+    "promiseText": "Nous répondons à chaque demande sous 24 heures. Pour les questions urgentes, utilisez notre assistant chat IA pour un support immédiat.",
+    "form": {
+      "fullName": "Nom Complet",
+      "email": "Adresse Email",
+      "company": "Entreprise / Site Web",
+      "companyPlaceholder": "Nom de votre entreprise ou URL du site web",
+      "service": "Service Souhaité",
+      "servicePlaceholder": "Sélectionnez un service",
+      "budget": "Budget du Projet",
+      "budgetPlaceholder": "Sélectionnez une fourchette de budget",
+      "message": "Détails du Projet",
+      "messagePlaceholder": "Parlez-nous de votre projet, vos objectifs et votre calendrier...",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en cours...",
+      "success": "Message Reçu!",
+      "successText": "Merci de nous avoir contactés. Notre équipe examinera votre demande et vous répondra sous 24 heures.",
+      "sendAnother": "Envoyer un Autre Message"
+    }
+  },
+  "about": {
+    "sectionTitle": "À Propos",
+    "title1": "L'Histoire Derrière",
+    "titleHighlight": "BlackPyramid",
+    "subtitle": "Nous ne sommes pas juste une autre agence. Nous sommes un collectif de spécialistes d'élite unis par une mission singulière: donner aux entreprises ambitieuses un avantage injuste dans le paysage digital.",
+    "mission": {
+      "title": "Notre Mission",
+      "text": "Démocratiser l'accès aux solutions digitales de classe mondiale, permettant aux entreprises de toutes tailles de concurrencer et de gagner sur le marché mondial."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "text": "Un monde où chaque entrepreneur ambitieux dispose des outils et stratégies pour construire quelque chose d'extraordinaire."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "excellence": "Excellence",
+      "excellenceText": "Nous ne nous contentons pas du suffisant. Chaque projet reçoit notre engagement total envers une qualité exceptionnelle.",
+      "innovation": "Innovation",
+      "innovationText": "Nous restons à la pointe, explorant constamment de nouvelles technologies et méthodologies.",
+      "integrity": "Intégrité",
+      "integrityText": "Nous construisons la confiance par la transparence, l'honnêteté et le respect de nos promesses.",
+      "results": "Résultats",
+      "resultsText": "Nous mesurons notre succès par les résultats tangibles que nous créons pour nos clients."
+    },
+    "team": {
+      "title": "Équipe de Direction",
+      "subtitle": "Rencontrez les visionnaires qui portent la mission de BlackPyramid."
+    }
+  },
+  "chat": {
+    "title": "BlackPyramid AI",
+    "subtitle": "Consultant Stratégique",
+    "placeholder": "Tapez votre message...",
+    "powered": "Propulsé par BlackPyramid AI • Disponible 24/7",
+    "sent": "Envoyé",
+    "welcome": "Bienvenue chez BlackPyramid. Je suis votre stratège IA, ici pour vous aider à définir la solution pour votre prochain grand projet. Pour commencer, pourriez-vous me dire votre nom et le site web de votre entreprise?"
+  },
+  "notFound": {
+    "title": "404",
+    "heading": "Page Non Trouvée",
+    "text": "La page que vous recherchez n'existe pas ou a été déplacée. Remettons-vous sur la bonne voie.",
+    "backHome": "Retour à l'Accueil",
+    "goBack": "Retour"
+  }
+}
