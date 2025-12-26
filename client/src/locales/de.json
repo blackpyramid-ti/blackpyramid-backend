@@ -89,37 +89,59 @@
     "tagline": "Ihr Unfairer Vorteil in einer Digitalen Welt"
   },
   "contact": {
-    "sectionTitle": "Kontaktieren Sie Uns",
-    "title1": "Lassen Sie Uns Etwas",
-    "titleHighlight": "Außergewöhnliches Bauen",
-    "subtitle": "Bereit, Ihr Unternehmen zu transformieren? Kontaktieren Sie unser Team, um Ihr Projekt zu besprechen und zu entdecken, wie wir Ihnen helfen können, Ihre Ziele zu erreichen.",
-    "getInTouch": "Kontakt Aufnehmen",
-    "emailUs": "Schreiben Sie Uns",
-    "emailDescription": "Unser Team antwortet in der Regel innerhalb von 24 Stunden",
-    "headquarters": "Hauptsitz",
-    "headquartersValue": "Globale Operationen",
-    "businessHours": "Geschäftszeiten",
-    "businessHoursDescription": "24/7 KI-Support Verfügbar",
-    "businessHoursValue": "Mo-Fr: 9-18 Uhr EST",
-    "promise": "Unser Versprechen",
-    "promiseText": "Wir antworten auf jede Anfrage innerhalb von 24 Stunden. Für dringende Angelegenheiten nutzen Sie unseren KI-Chat-Assistenten für sofortige Unterstützung.",
-    "form": {
-      "fullName": "Vollständiger Name",
-      "email": "E-Mail-Adresse",
-      "company": "Unternehmen / Website",
-      "companyPlaceholder": "Ihr Unternehmensname oder Website-URL",
-      "service": "Gewünschte Leistung",
-      "servicePlaceholder": "Wählen Sie eine Leistung",
-      "budget": "Projektbudget",
-      "budgetPlaceholder": "Wählen Sie eine Budgetspanne",
-      "message": "Projektdetails",
-      "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt, Ihren Zielen und Ihrem Zeitplan...",
-      "submit": "Nachricht Senden",
-      "submitting": "Wird gesendet...",
-      "success": "Nachricht Erhalten!",
-      "successText": "Vielen Dank für Ihre Kontaktaufnahme. Unser Team wird Ihre Anfrage prüfen und sich innerhalb von 24 Stunden bei Ihnen melden.",
-      "sendAnother": "Weitere Nachricht Senden"
-    }
+"sectionTitle": "Kontakt",
+  "title1": "Lassen Sie uns etwas",
+  "titleHighlight": "Außergewöhnliches bauen",
+  "subtitle": "Bereit, Ihr Unternehmen zu transformieren? Kontaktieren Sie unser Team, um Ihr Projekt zu besprechen und zu entdecken, wie wir Ihre Ziele erreichen können.",
+
+  "getInTouch": "Kontakt aufnehmen",
+
+  "emailUs": "E-Mail",
+  "emailDescription": "Unser Team antwortet in der Regel innerhalb von 24 Stunden",
+
+  "headquarters": "Hauptsitz",
+  "headquartersDescription": "Globale Präsenz",
+  "headquartersValue": "Weltweite Operationen",
+
+  "businessHours": "Geschäftszeiten",
+  "businessHoursDescription": "KI-Support rund um die Uhr",
+  "businessHoursValue": "Mo–Fr: 9–18 Uhr (EST)",
+
+  "promiseTitle": "Unser Versprechen",
+  "promiseDescription": "Wir antworten auf jede Anfrage innerhalb von 24 Stunden. Bei dringenden Anliegen nutzen Sie bitte unseren KI-Chat für sofortige Unterstützung.",
+
+  "formName": "Vollständiger Name",
+  "formEmail": "E-Mail-Adresse",
+  "formCompany": "Unternehmen / Website",
+  "formCompanyPlaceholder": "Name Ihres Unternehmens oder Website",
+  "formService": "Gewünschte Leistung",
+  "formServicePlaceholder": "Leistung auswählen",
+  "formBudget": "Projektbudget",
+  "formBudgetPlaceholder": "Budgetspanne auswählen",
+  "formMessage": "Projektdetails",
+  "formMessagePlaceholder": "Erzählen Sie uns von Ihrem Projekt, Ihren Zielen und Ihrem Zeitplan...",
+
+  "sendMessage": "Nachricht senden",
+  "sending": "Wird gesendet...",
+  "required": "* Pflichtfelder",
+
+  "successTitle": "Nachricht erhalten!",
+  "successMessage": "Vielen Dank für Ihre Kontaktaufnahme. Unser Team wird sich innerhalb von 24 Stunden bei Ihnen melden.",
+  "sendAnother": "Weitere Nachricht senden",
+
+  "budgetNotSure": "Noch nicht sicher",
+
+  "faqTitle": "FAQ",
+  "faqSubtitle": "Häufig gestellte Fragen",
+  "faq1Question": "Wie schnell antworten Sie?",
+  "faq1Answer": "Wir antworten auf alle Anfragen innerhalb von 24 Stunden.",
+  "faq2Question": "Arbeiten Sie international?",
+  "faq2Answer": "Ja, wir betreuen Kunden weltweit.",
+  "faq3Question": "Welche Leistungen bieten Sie an?",
+  "faq3Answer": "KI-Automatisierung, Micro-SaaS, KI-Agenten und strategisches Consulting.",
+  "faq4Question": "Wie starte ich ein Projekt?",
+  "faq4Answer": "Nutzen Sie einfach dieses Formular oder unseren KI-Chat."
+
   },
   "about": {
     "sectionTitle": "Über Uns",

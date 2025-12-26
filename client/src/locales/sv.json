@@ -89,37 +89,63 @@
     "tagline": "Din Orättvisa Fördel i en Digital Värld"
   },
   "contact": {
-    "sectionTitle": "Kontakta Oss",
-    "title1": "Låt Oss Bygga Något",
-    "titleHighlight": "Extraordinärt",
-    "subtitle": "Redo att transformera ditt företag? Kontakta vårt team för att diskutera ditt projekt och upptäck hur vi kan hjälpa dig att nå dina mål.",
-    "getInTouch": "Kontakta Oss",
-    "emailUs": "Maila Oss",
-    "emailDescription": "Vårt team svarar vanligtvis inom 24 timmar",
-    "headquarters": "Huvudkontor",
-    "headquartersValue": "Globala Operationer",
-    "businessHours": "Öppettider",
-    "businessHoursDescription": "24/7 AI-Support Tillgänglig",
-    "businessHoursValue": "Mån-Fre: 9-18 EST",
-    "promise": "Vårt Löfte",
-    "promiseText": "Vi svarar på varje förfrågan inom 24 timmar. För brådskande ärenden, använd vår AI-chattassistent för omedelbar support.",
-    "form": {
-      "fullName": "Fullständigt Namn",
-      "email": "E-postadress",
-      "company": "Företag / Webbplats",
-      "companyPlaceholder": "Ditt företagsnamn eller webbplats-URL",
-      "service": "Önskad Tjänst",
-      "servicePlaceholder": "Välj en tjänst",
-      "budget": "Projektbudget",
-      "budgetPlaceholder": "Välj budgetintervall",
-      "message": "Projektdetaljer",
-      "messagePlaceholder": "Berätta om ditt projekt, mål och tidslinje...",
-      "submit": "Skicka Meddelande",
-      "submitting": "Skickar...",
-      "success": "Meddelande Mottaget!",
-      "successText": "Tack för att du kontaktade oss. Vårt team kommer att granska din förfrågan och återkomma inom 24 timmar.",
-      "sendAnother": "Skicka Ytterligare Meddelande"
-    }
+     "sectionTitle": "Kontakta Oss",
+  "title1": "Låt Oss Bygga Något",
+  "titleHighlight": "Extraordinärt",
+  "subtitle": "Redo att transformera ditt företag? Kontakta vårt team för att diskutera ditt projekt.",
+
+  "getInTouch": "Kontakta Oss",
+
+  "emailUs": "Maila Oss",
+  "emailDescription": "Vårt team svarar vanligtvis inom 24 timmar",
+
+  "headquarters": "Huvudkontor",
+  "headquartersDescription": "Globala operationer",
+  "headquartersValue": "Globalt",
+
+  "businessHours": "Öppettider",
+  "businessHoursDescription": "24/7 AI-support tillgänglig",
+  "businessHoursValue": "Mån–Fre: 9–18 EST",
+
+  "promiseTitle": "Vårt Löfte",
+  "promiseDescription": "Vi svarar på alla förfrågningar inom 24 timmar.",
+
+  "formName": "Fullständigt Namn",
+  "formEmail": "E-postadress",
+  "formCompany": "Företag / Webbplats",
+  "formCompanyPlaceholder": "Ditt företagsnamn eller webbplats",
+  "formService": "Intresserad Tjänst",
+  "formServicePlaceholder": "Välj en tjänst",
+  "formBudget": "Projektbudget",
+  "formBudgetPlaceholder": "Välj ett intervall",
+  "formMessage": "Projektdetaljer",
+  "formMessagePlaceholder": "Berätta om ditt projekt...",
+  "required": "* Obligatoriska fält",
+
+  "sending": "Skickar...",
+  "sendMessage": "Skicka Meddelande",
+  "sendAnother": "Skicka Ett Till Meddelande",
+
+  "successTitle": "Meddelande Mottaget!",
+  "successMessage": "Tack för ditt meddelande. Vårt team återkommer inom 24 timmar.",
+
+  "budgetNotSure": "Inte säker ännu",
+
+  "faqTitle": "Vanliga Frågor",
+  "faqSubtitle": "Vanliga funderingar",
+
+  "faq1Question": "Hur lång tid tar det att få svar?",
+  "faq1Answer": "Vi svarar på alla förfrågningar inom 24 timmar.",
+
+  "faq2Question": "Arbetar ni med internationella företag?",
+  "faq2Answer": "Ja, vi arbetar med kunder i över 50 länder.",
+
+  "faq3Question": "Vad är minimiinvesteringen?",
+  "faq3Answer": "Projekt varierar beroende på omfattning. Vi diskuterar detta i samtalet.",
+
+  "faq4Question": "Kan jag prata med en specialist?",
+  "faq4Answer": "Ja, efter att formuläret skickats kommer vårt team att kontakta dig."
+    
   },
   "about": {
     "sectionTitle": "Om Oss",

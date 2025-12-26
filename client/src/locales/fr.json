@@ -89,37 +89,59 @@
     "tagline": "Votre Avantage Injuste dans un Monde Digital"
   },
   "contact": {
-    "sectionTitle": "Contactez-Nous",
-    "title1": "Construisons Quelque Chose",
-    "titleHighlight": "d'Extraordinaire",
-    "subtitle": "Prêt à transformer votre entreprise? Contactez notre équipe pour discuter de votre projet et découvrir comment nous pouvons vous aider à atteindre vos objectifs.",
-    "getInTouch": "Contactez-Nous",
-    "emailUs": "Écrivez-Nous",
-    "emailDescription": "Notre équipe répond généralement sous 24 heures",
-    "headquarters": "Siège Social",
-    "headquartersValue": "Opérations Mondiales",
-    "businessHours": "Heures d'Ouverture",
-    "businessHoursDescription": "Support IA 24/7 Disponible",
-    "businessHoursValue": "Lun-Ven: 9h-18h EST",
-    "promise": "Notre Promesse",
-    "promiseText": "Nous répondons à chaque demande sous 24 heures. Pour les questions urgentes, utilisez notre assistant chat IA pour un support immédiat.",
-    "form": {
-      "fullName": "Nom Complet",
-      "email": "Adresse Email",
-      "company": "Entreprise / Site Web",
-      "companyPlaceholder": "Nom de votre entreprise ou URL du site web",
-      "service": "Service Souhaité",
-      "servicePlaceholder": "Sélectionnez un service",
-      "budget": "Budget du Projet",
-      "budgetPlaceholder": "Sélectionnez une fourchette de budget",
-      "message": "Détails du Projet",
-      "messagePlaceholder": "Parlez-nous de votre projet, vos objectifs et votre calendrier...",
-      "submit": "Envoyer le Message",
-      "submitting": "Envoi en cours...",
-      "success": "Message Reçu!",
-      "successText": "Merci de nous avoir contactés. Notre équipe examinera votre demande et vous répondra sous 24 heures.",
-      "sendAnother": "Envoyer un Autre Message"
-    }
+     "sectionTitle": "Contact",
+  "title1": "Construisons Quelque Chose",
+  "titleHighlight": "d’Extraordinaire",
+  "subtitle": "Prêt à transformer votre entreprise ? Contactez notre équipe pour discuter de votre projet et découvrir comment nous pouvons vous aider à atteindre vos objectifs.",
+
+  "getInTouch": "Nous Contacter",
+
+  "emailUs": "Écrivez-Nous",
+  "emailDescription": "Notre équipe répond généralement sous 24 heures",
+
+  "headquarters": "Siège Social",
+  "headquartersDescription": "Présence mondiale",
+  "headquartersValue": "Opérations globales",
+
+  "businessHours": "Heures d’Ouverture",
+  "businessHoursDescription": "Support IA disponible 24/7",
+  "businessHoursValue": "Lun–Ven : 9h–18h EST",
+
+  "promiseTitle": "Notre Promesse",
+  "promiseDescription": "Nous répondons à toutes les demandes sous 24 heures. Pour les situations urgentes, utilisez notre assistant de chat IA pour une assistance immédiate.",
+
+  "formName": "Nom Complet",
+  "formEmail": "Adresse Email",
+  "formCompany": "Entreprise / Site Web",
+  "formCompanyPlaceholder": "Nom de votre entreprise ou site web",
+  "formService": "Service Souhaité",
+  "formServicePlaceholder": "Sélectionnez un service",
+  "formBudget": "Budget du Projet",
+  "formBudgetPlaceholder": "Sélectionnez une fourchette de budget",
+  "formMessage": "Détails du Projet",
+  "formMessagePlaceholder": "Parlez-nous de votre projet, de vos objectifs et de vos délais...",
+
+  "sendMessage": "Envoyer le Message",
+  "sending": "Envoi en cours...",
+  "required": "* Champs obligatoires",
+
+  "successTitle": "Message Reçu !",
+  "successMessage": "Merci de nous avoir contactés. Notre équipe examinera votre message et vous répondra sous 24 heures.",
+  "sendAnother": "Envoyer un Autre Message",
+
+  "budgetNotSure": "Je ne suis pas encore sûr",
+
+  "faqTitle": "Questions Fréquentes",
+  "faqSubtitle": "Questions les Plus Courantes",
+  "faq1Question": "Quel est votre délai de réponse ?",
+  "faq1Answer": "Nous répondons à toutes les demandes sous 24 heures.",
+  "faq2Question": "Travaillez-vous à l’international ?",
+  "faq2Answer": "Oui, nous travaillons avec des clients du monde entier.",
+  "faq3Question": "Quels services proposez-vous ?",
+  "faq3Answer": "Automatisation IA, Micro-SaaS, agents IA et conseil stratégique.",
+  "faq4Question": "Comment démarrer un projet ?",
+  "faq4Answer": "Il vous suffit d’utiliser ce formulaire ou notre assistant de chat IA."
+  
   },
   "about": {
     "sectionTitle": "À Propos",

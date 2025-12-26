@@ -89,37 +89,59 @@
     "tagline": "Twoja Nieuczciwa Przewaga w Cyfrowym Świecie"
   },
   "contact": {
-    "sectionTitle": "Skontaktuj Się",
-    "title1": "Zbudujmy Coś",
-    "titleHighlight": "Niezwykłego",
-    "subtitle": "Gotowy przekształcić swój biznes? Skontaktuj się z naszym zespołem, aby omówić swój projekt i odkryć, jak możemy pomóc Ci osiągnąć Twoje cele.",
-    "getInTouch": "Skontaktuj Się",
-    "emailUs": "Napisz do Nas",
-    "emailDescription": "Nasz zespół zazwyczaj odpowiada w ciągu 24 godzin",
-    "headquarters": "Siedziba Główna",
-    "headquartersValue": "Operacje Globalne",
-    "businessHours": "Godziny Pracy",
-    "businessHoursDescription": "Wsparcie AI 24/7 Dostępne",
-    "businessHoursValue": "Pon-Pt: 9-18 EST",
-    "promise": "Nasza Obietnica",
-    "promiseText": "Odpowiadamy na każde zapytanie w ciągu 24 godzin. W pilnych sprawach skorzystaj z naszego asystenta czatu AI, aby uzyskać natychmiastowe wsparcie.",
-    "form": {
-      "fullName": "Imię i Nazwisko",
-      "email": "Adres Email",
-      "company": "Firma / Strona",
-      "companyPlaceholder": "Nazwa Twojej firmy lub URL strony",
-      "service": "Interesująca Usługa",
-      "servicePlaceholder": "Wybierz usługę",
-      "budget": "Budżet Projektu",
-      "budgetPlaceholder": "Wybierz zakres budżetu",
-      "message": "Szczegóły Projektu",
-      "messagePlaceholder": "Opowiedz nam o swoim projekcie, celach i harmonogramie...",
-      "submit": "Wyślij Wiadomość",
-      "submitting": "Wysyłanie...",
-      "success": "Wiadomość Otrzymana!",
-      "successText": "Dziękujemy za kontakt. Nasz zespół przeanalizuje Twoje zapytanie i odpowie w ciągu 24 godzin.",
-      "sendAnother": "Wyślij Kolejną Wiadomość"
-    }
+    "sectionTitle": "Kontakt",
+  "title1": "Zbudujmy Coś",
+  "titleHighlight": "Niezwykłego",
+  "subtitle": "Gotowy przekształcić swój biznes? Skontaktuj się z naszym zespołem, aby omówić swój projekt i odkryć, jak możemy pomóc Ci osiągnąć Twoje cele.",
+
+  "getInTouch": "Skontaktuj Się",
+
+  "emailUs": "Napisz do Nas",
+  "emailDescription": "Nasz zespół zazwyczaj odpowiada w ciągu 24 godzin",
+
+  "headquarters": "Siedziba Główna",
+  "headquartersDescription": "Globalna obecność",
+  "headquartersValue": "Operacje globalne",
+
+  "businessHours": "Godziny Pracy",
+  "businessHoursDescription": "Wsparcie AI 24/7 dostępne",
+  "businessHoursValue": "Pon–Pt: 9:00–18:00 EST",
+
+  "promiseTitle": "Nasza Obietnica",
+  "promiseDescription": "Odpowiadamy na każde zapytanie w ciągu 24 godzin. W pilnych sprawach skorzystaj z naszego asystenta czatu AI, aby uzyskać natychmiastowe wsparcie.",
+
+  "formName": "Imię i Nazwisko",
+  "formEmail": "Adres e-mail",
+  "formCompany": "Firma / Strona internetowa",
+  "formCompanyPlaceholder": "Nazwa Twojej firmy lub adres strony",
+  "formService": "Interesująca Usługa",
+  "formServicePlaceholder": "Wybierz usługę",
+  "formBudget": "Budżet Projektu",
+  "formBudgetPlaceholder": "Wybierz zakres budżetu",
+  "formMessage": "Szczegóły Projektu",
+  "formMessagePlaceholder": "Opowiedz nam o swoim projekcie, celach i harmonogramie...",
+
+  "sendMessage": "Wyślij Wiadomość",
+  "sending": "Wysyłanie...",
+  "required": "* Pola wymagane",
+
+  "successTitle": "Wiadomość Otrzymana!",
+  "successMessage": "Dziękujemy za kontakt. Nasz zespół przeanalizuje Twoje zapytanie i odpowie w ciągu 24 godzin.",
+  "sendAnother": "Wyślij Kolejną Wiadomość",
+
+  "budgetNotSure": "Jeszcze nie wiem",
+
+  "faqTitle": "Często Zadawane Pytania",
+  "faqSubtitle": "Najczęstsze pytania",
+  "faq1Question": "Jaki jest czas odpowiedzi?",
+  "faq1Answer": "Odpowiadamy na wszystkie zapytania w ciągu 24 godzin.",
+  "faq2Question": "Czy pracujecie międzynarodowo?",
+  "faq2Answer": "Tak, współpracujemy z klientami z całego świata.",
+  "faq3Question": "Jakie usługi oferujecie?",
+  "faq3Answer": "Automatyzację AI, Micro-SaaS, agentów AI oraz doradztwo strategiczne.",
+  "faq4Question": "Jak mogę rozpocząć projekt?",
+  "faq4Answer": "Wypełnij ten formularz lub skorzystaj z naszego asystenta czatu AI."
+    
   },
   "about": {
     "sectionTitle": "O Nas",

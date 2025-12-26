@@ -185,37 +185,59 @@
     "tagline": "Your Unfair Advantage in a Digital World"
   },
   "contact": {
-    "sectionTitle": "Contact Us",
-    "title1": "Let's Build Something",
-    "titleHighlight": "Extraordinary",
-    "subtitle": "Ready to transform your business? Get in touch with our team to discuss your project and discover how we can help you achieve your goals.",
-    "getInTouch": "Get in Touch",
-    "emailUs": "Email Us",
-    "emailDescription": "Our team typically responds within 24 hours",
-    "headquarters": "Headquarters",
-    "headquartersValue": "Global Operations",
-    "businessHours": "Business Hours",
-    "businessHoursDescription": "24/7 AI Support Available",
-    "businessHoursValue": "Mon-Fri: 9AM-6PM EST",
-    "promise": "Our Promise",
-    "promiseText": "We respond to every inquiry within 24 hours. For urgent matters, use our AI chat assistant for immediate support.",
-    "form": {
-      "fullName": "Full Name",
-      "email": "Email Address",
-      "company": "Company / Website",
-      "companyPlaceholder": "Your company name or website URL",
-      "service": "Service Interest",
-      "servicePlaceholder": "Select a service",
-      "budget": "Project Budget",
-      "budgetPlaceholder": "Select budget range",
-      "message": "Project Details",
-      "messagePlaceholder": "Tell us about your project, goals, and timeline...",
-      "submit": "Send Message",
-      "submitting": "Sending...",
-      "success": "Message Received!",
-      "successText": "Thank you for reaching out. Our team will review your inquiry and get back to you within 24 hours.",
-      "sendAnother": "Send Another Message"
-    }
+    "sectionTitle": "Contact",
+  "title1": "Let's Build Something",
+  "titleHighlight": "Extraordinary",
+  "subtitle": "Ready to transform your business? Get in touch with our team to discuss your project and discover how we can help you achieve your goals.",
+
+  "getInTouch": "Get in Touch",
+
+  "emailUs": "Email Us",
+  "emailDescription": "Our team typically responds within 24 hours",
+
+  "headquarters": "Headquarters",
+  "headquartersDescription": "Global presence",
+  "headquartersValue": "Worldwide operations",
+
+  "businessHours": "Business Hours",
+  "businessHoursDescription": "24/7 AI support available",
+  "businessHoursValue": "Mon–Fri: 9AM–6PM EST",
+
+  "promiseTitle": "Our Promise",
+  "promiseDescription": "We respond to every inquiry within 24 hours. For urgent matters, please use our AI chat assistant for immediate support.",
+
+  "formName": "Full Name",
+  "formEmail": "Email Address",
+  "formCompany": "Company / Website",
+  "formCompanyPlaceholder": "Your company name or website",
+  "formService": "Service Interest",
+  "formServicePlaceholder": "Select a service",
+  "formBudget": "Project Budget",
+  "formBudgetPlaceholder": "Select budget range",
+  "formMessage": "Project Details",
+  "formMessagePlaceholder": "Tell us about your project, goals, and timeline...",
+
+  "sendMessage": "Send Message",
+  "sending": "Sending...",
+  "required": "* Required fields",
+
+  "successTitle": "Message Received!",
+  "successMessage": "Thank you for reaching out. Our team will review your inquiry and get back to you within 24 hours.",
+  "sendAnother": "Send Another Message",
+
+  "budgetNotSure": "Not sure yet",
+
+  "faqTitle": "FAQ",
+  "faqSubtitle": "Frequently Asked Questions",
+  "faq1Question": "How fast do you respond?",
+  "faq1Answer": "We respond to all inquiries within 24 hours.",
+  "faq2Question": "Do you work internationally?",
+  "faq2Answer": "Yes, we work with clients worldwide.",
+  "faq3Question": "What services do you offer?",
+  "faq3Answer": "AI automation, Micro-SaaS, AI agents, and strategic consulting.",
+  "faq4Question": "How do I start a project?",
+  "faq4Answer": "Simply use this form or our AI chat assistant."
+  
   },
   "about": {
     "sectionTitle": "About Us",

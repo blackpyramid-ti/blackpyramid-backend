@@ -89,37 +89,59 @@
     "tagline": "Tu Ventaja Injusta en un Mundo Digital"
   },
   "contact": {
-    "sectionTitle": "Contáctanos",
-    "title1": "Construyamos Algo",
-    "titleHighlight": "Extraordinario",
-    "subtitle": "¿Listo para transformar tu negocio? Ponte en contacto con nuestro equipo para discutir tu proyecto y descubrir cómo podemos ayudarte a alcanzar tus objetivos.",
-    "getInTouch": "Ponte en Contacto",
-    "emailUs": "Escríbenos",
-    "emailDescription": "Nuestro equipo generalmente responde en 24 horas",
-    "headquarters": "Sede Central",
-    "headquartersValue": "Operaciones Globales",
-    "businessHours": "Horario de Atención",
-    "businessHoursDescription": "Soporte IA 24/7 Disponible",
-    "businessHoursValue": "Lun-Vie: 9AM-6PM EST",
-    "promise": "Nuestra Promesa",
-    "promiseText": "Respondemos a cada consulta en 24 horas. Para asuntos urgentes, usa nuestro asistente de chat IA para soporte inmediato.",
-    "form": {
-      "fullName": "Nombre Completo",
-      "email": "Correo Electrónico",
-      "company": "Empresa / Sitio Web",
-      "companyPlaceholder": "Nombre de tu empresa o URL del sitio web",
-      "service": "Servicio de Interés",
-      "servicePlaceholder": "Selecciona un servicio",
-      "budget": "Presupuesto del Proyecto",
-      "budgetPlaceholder": "Selecciona rango de presupuesto",
-      "message": "Detalles del Proyecto",
-      "messagePlaceholder": "Cuéntanos sobre tu proyecto, objetivos y cronograma...",
-      "submit": "Enviar Mensaje",
-      "submitting": "Enviando...",
-      "success": "¡Mensaje Recibido!",
-      "successText": "Gracias por contactarnos. Nuestro equipo revisará tu consulta y te responderá en 24 horas.",
-      "sendAnother": "Enviar Otro Mensaje"
-    }
+    "sectionTitle": "Contacto",
+  "title1": "Construyamos Algo",
+  "titleHighlight": "Extraordinario",
+  "subtitle": "¿Listo para transformar tu negocio? Ponte en contacto con nuestro equipo para hablar de tu proyecto y descubrir cómo podemos ayudarte a alcanzar tus objetivos.",
+
+  "getInTouch": "Ponte en Contacto",
+
+  "emailUs": "Escríbenos",
+  "emailDescription": "Nuestro equipo suele responder en un plazo de 24 horas",
+
+  "headquarters": "Sede Central",
+  "headquartersDescription": "Presencia global",
+  "headquartersValue": "Operaciones en todo el mundo",
+
+  "businessHours": "Horario de Atención",
+  "businessHoursDescription": "Soporte con IA disponible 24/7",
+  "businessHoursValue": "Lun–Vie: 9:00–18:00 EST",
+
+  "promiseTitle": "Nuestra Promesa",
+  "promiseDescription": "Respondemos a todas las consultas en un plazo de 24 horas. Para asuntos urgentes, utiliza nuestro asistente de chat con IA para obtener ayuda inmediata.",
+
+  "formName": "Nombre Completo",
+  "formEmail": "Correo Electrónico",
+  "formCompany": "Empresa / Sitio Web",
+  "formCompanyPlaceholder": "Nombre de tu empresa o sitio web",
+  "formService": "Servicio de Interés",
+  "formServicePlaceholder": "Selecciona un servicio",
+  "formBudget": "Presupuesto del Proyecto",
+  "formBudgetPlaceholder": "Selecciona un rango de presupuesto",
+  "formMessage": "Detalles del Proyecto",
+  "formMessagePlaceholder": "Cuéntanos sobre tu proyecto, objetivos y plazos...",
+
+  "sendMessage": "Enviar Mensaje",
+  "sending": "Enviando...",
+  "required": "* Campos obligatorios",
+
+  "successTitle": "¡Mensaje Recibido!",
+  "successMessage": "Gracias por contactarnos. Nuestro equipo revisará tu mensaje y te responderá en un plazo de 24 horas.",
+  "sendAnother": "Enviar Otro Mensaje",
+
+  "budgetNotSure": "Aún no estoy seguro",
+
+  "faqTitle": "Preguntas Frecuentes",
+  "faqSubtitle": "Preguntas Más Comunes",
+  "faq1Question": "¿En cuánto tiempo responden?",
+  "faq1Answer": "Respondemos a todas las consultas en un plazo de 24 horas.",
+  "faq2Question": "¿Trabajan a nivel internacional?",
+  "faq2Answer": "Sí, trabajamos con clientes de todo el mundo.",
+  "faq3Question": "¿Qué servicios ofrecen?",
+  "faq3Answer": "Automatización con IA, Micro-SaaS, agentes de IA y consultoría estratégica.",
+  "faq4Question": "¿Cómo inicio un proyecto?",
+  "faq4Answer": "Solo tienes que usar este formulario o nuestro asistente de chat con IA."
+
   },
   "about": {
     "sectionTitle": "Sobre Nosotros",

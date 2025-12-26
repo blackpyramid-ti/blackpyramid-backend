@@ -89,37 +89,59 @@
     "tagline": "Uw Oneerlijke Voorsprong in een Digitale Wereld"
   },
   "contact": {
-    "sectionTitle": "Neem Contact Op",
-    "title1": "Laten We Iets",
-    "titleHighlight": "Buitengewoons Bouwen",
-    "subtitle": "Klaar om uw bedrijf te transformeren? Neem contact op met ons team om uw project te bespreken en te ontdekken hoe wij u kunnen helpen uw doelen te bereiken.",
-    "getInTouch": "Neem Contact Op",
-    "emailUs": "E-mail Ons",
-    "emailDescription": "Ons team reageert doorgaans binnen 24 uur",
-    "headquarters": "Hoofdkantoor",
-    "headquartersValue": "Wereldwijde Operaties",
-    "businessHours": "Openingstijden",
-    "businessHoursDescription": "24/7 AI Ondersteuning Beschikbaar",
-    "businessHoursValue": "Ma-Vr: 9-18 uur EST",
-    "promise": "Onze Belofte",
-    "promiseText": "Wij reageren op elke vraag binnen 24 uur. Voor dringende zaken, gebruik onze AI-chatassistent voor directe ondersteuning.",
-    "form": {
-      "fullName": "Volledige Naam",
-      "email": "E-mailadres",
-      "company": "Bedrijf / Website",
-      "companyPlaceholder": "Uw bedrijfsnaam of website-URL",
-      "service": "Gewenste Dienst",
-      "servicePlaceholder": "Selecteer een dienst",
-      "budget": "Projectbudget",
-      "budgetPlaceholder": "Selecteer budgetbereik",
-      "message": "Projectdetails",
-      "messagePlaceholder": "Vertel ons over uw project, doelen en tijdlijn...",
-      "submit": "Verstuur Bericht",
-      "submitting": "Versturen...",
-      "success": "Bericht Ontvangen!",
-      "successText": "Bedankt voor uw bericht. Ons team zal uw vraag bekijken en binnen 24 uur reageren.",
-      "sendAnother": "Verstuur Nog een Bericht"
-    }
+    "sectionTitle": "Contact",
+  "title1": "Laten We Iets",
+  "titleHighlight": "Buitengewoons Bouwen",
+  "subtitle": "Klaar om uw bedrijf te transformeren? Neem contact op met ons team om uw project te bespreken en te ontdekken hoe wij u kunnen helpen uw doelen te bereiken.",
+
+  "getInTouch": "Neem Contact Op",
+
+  "emailUs": "E-mail Ons",
+  "emailDescription": "Ons team reageert doorgaans binnen 24 uur",
+
+  "headquarters": "Hoofdkantoor",
+  "headquartersDescription": "Wereldwijde aanwezigheid",
+  "headquartersValue": "Wereldwijde operaties",
+
+  "businessHours": "Openingstijden",
+  "businessHoursDescription": "24/7 AI-ondersteuning beschikbaar",
+  "businessHoursValue": "Ma–Vr: 9:00–18:00 EST",
+
+  "promiseTitle": "Onze Belofte",
+  "promiseDescription": "Wij reageren op elke aanvraag binnen 24 uur. Voor dringende zaken kunt u onze AI-chatassistent gebruiken voor onmiddellijke ondersteuning.",
+
+  "formName": "Volledige Naam",
+  "formEmail": "E-mailadres",
+  "formCompany": "Bedrijf / Website",
+  "formCompanyPlaceholder": "Uw bedrijfsnaam of website",
+  "formService": "Dienst van Interesse",
+  "formServicePlaceholder": "Selecteer een dienst",
+  "formBudget": "Projectbudget",
+  "formBudgetPlaceholder": "Selecteer een budgetrange",
+  "formMessage": "Projectdetails",
+  "formMessagePlaceholder": "Vertel ons over uw project, doelen en planning...",
+
+  "sendMessage": "Bericht Verzenden",
+  "sending": "Bezig met verzenden...",
+  "required": "* Verplichte velden",
+
+  "successTitle": "Bericht Ontvangen!",
+  "successMessage": "Bedankt voor uw bericht. Ons team zal uw aanvraag beoordelen en binnen 24 uur contact met u opnemen.",
+  "sendAnother": "Nog een Bericht Verzenden",
+
+  "budgetNotSure": "Nog niet zeker",
+
+  "faqTitle": "Veelgestelde Vragen",
+  "faqSubtitle": "Meest Gestelde Vragen",
+  "faq1Question": "Wat is jullie responstijd?",
+  "faq1Answer": "Wij reageren op alle aanvragen binnen 24 uur.",
+  "faq2Question": "Werken jullie internationaal?",
+  "faq2Answer": "Ja, wij werken met klanten over de hele wereld.",
+  "faq3Question": "Welke diensten bieden jullie aan?",
+  "faq3Answer": "AI-automatisering, Micro-SaaS, AI-agenten en strategisch advies.",
+  "faq4Question": "Hoe kan ik een project starten?",
+  "faq4Answer": "Vul dit formulier in of gebruik onze AI-chatassistent."
+  
   },
   "about": {
     "sectionTitle": "Over Ons",
