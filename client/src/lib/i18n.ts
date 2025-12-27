@@ -63,18 +63,31 @@ i18n
 // Function to change language and update document direction
 export const changeLanguage = (langCode: string) => {
   i18n.changeLanguage(langCode);
-  const lang = languages.find((l) => l.code === langCode);
-  if (lang) {
-    document.documentElement.dir = lang.dir;
-    document.documentElement.lang = langCode;
+  const currentLang = i18n.language;
+const baseLang = currentLang.split("-")[0];
+
+const initLang = languages.find(
+  (l) => l.code === currentLang || l.code === baseLang
+);
+
+if (initLang) {
+  document.documentElement.dir = initLang.dir;
+  document.documentElement.lang = currentLang;
+
   }
 };
 
 // Initialize document direction based on current language
-const initLang = languages.find((l) => l.code === i18n.language);
+const currentLang = i18n.language;
+const baseLang = currentLang.split("-")[0];
+
+const initLang = languages.find(
+  (l) => l.code === currentLang || l.code === baseLang
+);
+
 if (initLang) {
   document.documentElement.dir = initLang.dir;
-  document.documentElement.lang = i18n.language;
+  document.documentElement.lang = currentLang;
 }
 
 export default i18n;
